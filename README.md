@@ -2,7 +2,7 @@
 Tugas praktikum 3
 
 Janji:
-Saya Nisrina Safinatunnajah dengan NIM 2410093 mengerjakan Tugas Praktikum 3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Nisrina Safinatunnajah dengan NIM 2410093 mengerjakan Tugas Praktikum 3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 flow kode, penjelasan alur, dan penjelasan diagram:
 
