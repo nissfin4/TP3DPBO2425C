@@ -6,3 +6,4 @@ Saya Nisrina Safinatunnajah dengan NIM 2410093 mengerjakan Tugas Praktikum 1 dal
 
 Diagram:
 
+![diagram](TP3.drawio.png)
