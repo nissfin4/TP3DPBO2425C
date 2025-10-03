@@ -32,20 +32,20 @@ Diagram:
 
 Dokumentasi cpp:
 
-![cpp](dokumentasi/Screenshot1818.png)
-![cpp](dokumentasi/Screenshot1819.png)
-![cpp](dokumentasi/Screenshot1820.png)
-![cpp](dokumentasi/Screenshot1821.png)
+![cpp](cpp/dokumentasi/Screenshot1818.png)
+![cpp](cpp/dokumentasi/Screenshot1819.png)
+![cpp](cpp/dokumentasi/Screenshot1820.png)
+![cpp](cpp/dokumentasi/Screenshot1821.png)
 
 Dokumentasi python:
-![python](dokumentasi/Screenshot1822.png)
-![python](dokumentasi/Screenshot1823.png)
-![python](dokumentasi/Screenshot1824.png)
-![python](dokumentasi/Screenshot1825.png)
+![python](python/dokumentasi/Screenshot1822.png)
+![python](python/dokumentasi/Screenshot1823.png)
+![python](python/dokumentasi/Screenshot1824.png)
+![python](python/dokumentasi/Screenshot1825.png)
 
 Dokumentasi java: 
-![java](dokumentasi/Screenshot1826.png)
-![java](dokumentasi/Screenshot1827.png)
-![java](dokumentasi/Screenshot1828.png)
-![java](dokumentasi/Screenshot1829.png)
+![java](java/dokumentasi/Screenshot1826.png)
+![java](java/dokumentasi/Screenshot1827.png)
+![java](java/dokumentasi/Screenshot1828.png)
+![java](java/dokumentasi/Screenshot1829.png)
 
